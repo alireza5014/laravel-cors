@@ -25,6 +25,17 @@
 
         "illuminate/support": "5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0"
     },
+    "repositories": {
+        "packagist.org": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        },
+        "github.com": {
+            "type": "composer",
+            "url": "https://github.com"
+        }
+
+    },
     "require-dev": {
         "orchestra/testbench": "3.5.*|3.6.*|3.7.*|3.8.*|^4.0",
         "phpunit/phpunit": "^8.0"
