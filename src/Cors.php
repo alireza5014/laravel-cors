@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\Cors;
+namespace alireza5014\Cors;
 
 use Closure;
-use Spatie\Cors\CorsProfile\CorsProfile;
+use alireza5014\Cors\CorsProfile\CorsProfile;
 
 class Cors
 {

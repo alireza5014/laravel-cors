@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Cors\CorsProfile;
+namespace alireza5014\Cors\CorsProfile;
 
 class DefaultProfile implements CorsProfile
 {

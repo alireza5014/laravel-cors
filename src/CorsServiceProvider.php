@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\Cors;
+namespace alireza5014\Cors;
 
 use Illuminate\Support\ServiceProvider;
-use Spatie\Cors\CorsProfile\CorsProfile;
-use Spatie\Cors\CorsProfile\DefaultProfile;
-use Spatie\Cors\Exceptions\InvalidCorsProfile;
+use alireza5014\Cors\CorsProfile\CorsProfile;
+use alireza5014\Cors\CorsProfile\DefaultProfile;
+use alireza5014\Cors\Exceptions\InvalidCorsProfile;
 
 class CorsServiceProvider extends ServiceProvider
 {
