@@ -7,7 +7,7 @@ use alireza5014\Cors\CorsProfile\CorsProfile;
 
 class Cors
 {
-    /** @var \Spatie\Cors\CorsProfile\CorsProfile */
+    /** @var \alireza5014\Cors\CorsProfile\CorsProfile */
     protected $corsProfile;
 
     public function __construct(CorsProfile $corsProfile)
